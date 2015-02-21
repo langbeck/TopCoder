@@ -1,4 +1,3 @@
-// Score 223.07 / 250 points
 public class FoxAndGomoku {
 
 	private char emptyCell = '.';
