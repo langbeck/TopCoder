@@ -14,9 +14,11 @@ My code is licenced under
 ## Problems Solved
 
 * Single Round Match 590 Round 1 - Division II, Level One
+    * http://community.topcoder.com/stat?c=problem_statement&pm=12744&rd=15702
     * (Offline)
 * Single Round Match 648 Round 1 - Division II, Level One
+    * http://community.topcoder.com/stat?c=problem_statement&pm=13650&rd=16312
     * (Offline)
 * Single Round Match 649 Round 1 - Division II, Level One
+    * http://community.topcoder.com/stat?c=problem_statement&pm=13658&rd=16313
     * (Offline)
-
