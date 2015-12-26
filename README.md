@@ -2,7 +2,7 @@
 
 Repo for my TopCoder submissions and other problems statements I solved offline.
 
-My profile @ http://community.topcoder.com/tc?module=MemberProfile&cr=20169294
+My profile @ http://www.topcoder.com/members/gcoelho
 
 All problems statements are proprietary property of TopCoder.
 http://www.topcoder.com/
