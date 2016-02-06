@@ -23,8 +23,12 @@ My code is licenced under
     * http://community.topcoder.com/stat?c=problem_statement&pm=13658&rd=16313
     * (Offline)
 * Single Round Match 650 Round 1 - Division II, Level One
-    * http://community.topcoder.com/stat?c=problem_statement&pm=13672
+    * http://community.topcoder.com/stat?c=problem_statement&pm=13672&rd=16314
     * (Offline)
 * Single Round Match 651 Round 1 - Division II, Level One
     * Unavailable
     * (Offline)
+* Single Round Match 677 Round 1 - Division II, Level One
+    * http://community.topcoder.com/stat?c=problem_statement&pm=14098&rd=16627
+    * Points: 144.54
+
