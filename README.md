@@ -31,4 +31,7 @@ My code is licenced under
 * Single Round Match 677 Round 1 - Division II, Level One
     * http://community.topcoder.com/stat?c=problem_statement&pm=14098&rd=16627
     * Points: 144.54
+* Single Round Match 681 Round 1 - Division II, Level One
+    * http://community.topcoder.com/stat?c=problem_statement&pm=14138&rd=16651
+    * Points: 188.82
 
